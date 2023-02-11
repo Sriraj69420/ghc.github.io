@@ -1,0 +1,9 @@
+#NavigationBar{
+    font-weight: bold;
+}
+
+@media (max-width:1028px) {
+    .slide2 p{
+        transform: translateY(-20%);
+    }
+}
